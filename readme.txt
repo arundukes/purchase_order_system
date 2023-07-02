@@ -30,6 +30,3 @@ pass: admin123
 
 create your own user
 
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
